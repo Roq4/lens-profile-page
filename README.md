@@ -1,6 +1,6 @@
 # Lens Profile Page
 
-This project made for learn how to interract with Lens Protocol endpoint.
+This project made for learn how to interract with Lens Protocol endpoint. Click to the link below to go to the live project! Also if you will click any profile component you will direct to the individual profile & comment page of this profile!
 
 [Click](https://lens-profile-page.vercel.app/)
 
